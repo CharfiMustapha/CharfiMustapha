@@ -48,42 +48,9 @@ I am completely passionate about frontend backend development .
 
 </div>
 
+Credit: [Mustapha Charfi](https://github.com/CharfiMustapha) 
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzizBenIsmail&repo=PFA-Automatisation_Campagne_Sms-Email-FrontendReact&theme=react)](https://github.com/AzizBenIsmail/PFA-Automatisation_Campagne_Sms-Email-FrontendReact)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzizBenIsmail&repo=PFA-Automatisation_Campagne_Sms-Email-BackendExpress&theme=react)](https://github.com/AzizBenIsmail/PFA-Automatisation_Campagne_Sms-Email-BackendExpress)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-Credit: [Aziz Ben Ismail](https://github.com/AzizBenIsmail) 
-
-Last Edited on: 03/09/2024
-<details> 
-  <summary>  <img src="./assets/giphy.gif" width="30px" alt="Git"/>GitHub Profile Stats </summary>
-  <div>
-  <samp>
-      <br/>
-            <p align="center">
-      </p>
-        <p align="center">
-          <a href="https://github.com/AzizBenIsmail/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AzizBenIsmail&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AzizBenIsmail&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by commit" />
-          </a>
-        </p>
-    <br>
-
-## <img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width ="25"><b> Trophies</b>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AzizBenIsmail&theme=nord&column=7)](https://github.com/Naderab/github-profile-trophy)
-
-<br>
-</details>
-
-
+Last Edited on: 26/11/2024
 
 
 [reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
