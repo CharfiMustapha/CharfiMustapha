@@ -2,21 +2,13 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Mustapha+Charfi..&hearts;++;Self-taught+Full+Stack+Web+Developer,;Love+to+learn+new+stuffs..<3"></a>
 </p>
-
-<!--
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Mustapha+Charfi..&hearts;++;Self-taught+Full+Stack+Web+Developer,;Love+to+learn+new+stuffs..<3"></a>
-</p> -->
   
 <!--  Ceci mon Avatar-->
 <img title="My Avatar" align="left" src="https://user-images.githubusercontent.com/522079/90506845-e8420580-e122-11ea-82ca-31087fc8486c.png"  width="500px" alt="hi" >
 
 <!--  About me -->
-<!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> *About me*-->
-*About me*
-
-I'm Mustapha Charfi a Computer science student at (ISI Kef) in Tunisia 💻 , I'm 21 years old and Content Creator on [Youtube]([https://www.youtube.com/c/AzizBenIsmail](https://www.youtube.com/@lmuus)).
+## **About me**
+I'm Mustapha Charfi a Computer science student at (ISI Kef) in Tunisia 💻 , I'm 21 years old and Content Creator on [YouTube](https://www.youtube.com/@lmuus).
 I am completely passionate about frontend backend development .
 
 <!-- Let's Connect..! -->
@@ -33,7 +25,7 @@ I am completely passionate about frontend backend development .
 [![wakatime](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160.svg)](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160)
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=AzizBenIsmail.AzizBenIsmail)-->
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=AzizBenIsmail)
-<img src="https://img.shields.io/badge/Age-24-blue" />
+<img src="https://img.shields.io/badge/Age-21-blue" />
 
 <!-- Ligne  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
