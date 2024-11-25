@@ -19,12 +19,6 @@ I am completely passionate about frontend backend development .
 [![Mail Badge](https://img.shields.io/badge/-@mustapha_charfi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/mustapha_charfi/)
 [![Mail Badge](https://img.shields.io/badge/-MustaphaCharfi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:charfimustapha97@gmail.com)
 
-<!-- Github Stats   -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MustaphaCharfi&show_icons=true&locale=en&layout=compact&langs_count=10&theme=algolia)
-
 
 
 <!-- Ligne  -->
