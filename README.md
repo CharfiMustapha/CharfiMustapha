@@ -42,11 +42,12 @@ I am completely passionate about frontend backend development .
 
 | Choose your language         | Flags                                                                                                              |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| [AR-TN](./README-AR-TN.md)   | <img width="15%" alt="Tunisia Flag" title="Tunisia Flag (TN)" src="https://www.countryflags.com/wp-content/uploads/tunisia-flag-png-large.png" /> |
-| [EN-US](./README.md)         | <img width="15%" alt="USA Flag" title="United States Flag (USA)" src="https://www.countryflags.com/wp-content/uploads/united-states-flag-png-large.png" /> |
-| [FR-FRA](./README-FR-FRA.md) | <img width="15%" alt="France Flag" title="France Flag (FR)" src="https://www.countryflags.com/wp-content/uploads/france-flag-png-large.png" /> |
+| [AR-TN](./README-AR-TN.md)   | <img width="10%" alt="Tunisia Flag" title="Tunisia Flag (TN)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Tunisia.svg/800px-Flag_of_Tunisia.svg.png" /> |
+| [EN-US](./README.md)         | <img width="10%" alt="USA Flag" title="United States Flag (USA)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/800px-Flag_of_the_United_States.svg.png" /> |
+| [FR-FRA](./README-FR-FRA.md) | <img width="10%" alt="France Flag" title="France Flag (FR)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/800px-Flag_of_France.svg.png" /> |
 
 </div>
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
