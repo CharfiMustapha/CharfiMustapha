@@ -8,8 +8,8 @@
 <!--
 
 <p align="center">
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0099DD&size=30&lines=Hey!+It's+Charfi+Mustapha!;Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things)](https://github.com/CharfiMustapha) 
-  </p> -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Mustapha+Charfi..&hearts;++;Self-taught+Full+Stack+Web+Developer,;Love+to+learn+new+stuffs..<3"></a>
+</p> -->
   
 <!--  Ceci mon Avatar-->
 <img title="My Avatar" align="left" src="https://user-images.githubusercontent.com/522079/90506845-e8420580-e122-11ea-82ca-31087fc8486c.png"  width="500px" alt="hi" >
