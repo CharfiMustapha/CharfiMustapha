@@ -19,11 +19,19 @@ I am completely passionate about frontend backend development .
 [![Mail Badge](https://img.shields.io/badge/-@mustapha_charfi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/mustapha_charfi/)
 [![Mail Badge](https://img.shields.io/badge/-MustaphaCharfi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:charfimustapha97@gmail.com)
 
-<!-- GitHub followers /visitors/Age  -->
-![GitHub followers](https://img.shields.io/github/followers/CharfiMustapha?style=social)
-<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=MustaphaCharfi.MustaphaCharfi)-->
-![Github Page Visit Count](https://komarev.com/ghpvc/?username=CharfiMustapha)
-<img src="https://img.shields.io/badge/Age-21-blue" />
+<!-- Github Stats   -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizBenIsmail&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AzizBenIsmail&show_icons=true&theme=radical)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BenIsmail)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AzizBenIsmail&&theme=algolia" alt="AzizBenIsmail" /></p>
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=AzizBenIsmail&theme=react)
+
+### ✍ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Ligne  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
