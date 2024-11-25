@@ -22,7 +22,7 @@ I am completely passionate about frontend backend development .
 <!-- GitHub followers /visitors/Age  -->
 ![GitHub followers](https://img.shields.io/github/followers/CharfiMustapha?style=social)
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=AzizBenIsmail.AzizBenIsmail)-->
-![Github Page Visit Count](https://komarev.com/ghpvc/?username=AzizBenIsmail)
+![Github Page Visit Count](https://komarev.com/ghpvc/?username=CharfiMustapha)
 <img src="https://img.shields.io/badge/Age-21-blue" />
 
 <!-- Ligne  -->
