@@ -38,20 +38,22 @@ I am continuously exploring modern development tools and best practices to grow 
 <!-- TODO: Make technologies links takes you to repositories -->
 
 [![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031)](#) 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
-[![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4)](#) 
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)](#) 
+[![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](#) 
+[![NestJS Badge](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=E0234E)](#) 
 [![Spring Boot Badge](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&labelColor=black&logo=springboot&logoColor=6DB33F)](#)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<div align="center" >
 
-| Choose your language         | Flags                                                                                                              |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| [AR-TN](./README-AR-TN.md)   | <img width="8%" alt="Tunisia Flag" title="Tunisia Flag (TN)" src="https://www.countryflags.com/wp-content/uploads/tunisia-flag-png-large.png" /> |
-| [EN-US](./README.md)         | <img width="8%" alt="USA Flag" title="United States Flag (USA)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/800px-Flag_of_the_United_States.svg.png" /> |
-| [FR-FRA](./README-FR-FRA.md) | <img width="8%" alt="France Flag" title="France Flag (FR)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/800px-Flag_of_France.svg.png" /> |
+<div align="center">
+
+| Language | Flag |
+|----------|------|
+| [AR-TN](./README-AR-TN.md) | <img src="https://flagcdn.com/w40/tn.png" alt="Tunisia Flag" width="40"> |
+| [EN-US](./README.md) | <img src="https://flagcdn.com/w40/us.png" alt="United States Flag" width="40"> |
+| [FR-FR](./README-FR-FRA.md) | <img src="https://flagcdn.com/w40/fr.png" alt="France Flag" width="40"> |
 
 </div>
 
