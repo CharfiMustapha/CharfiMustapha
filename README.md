@@ -9,9 +9,14 @@
 <img title="My Avatar" align="left" src="https://user-images.githubusercontent.com/522079/90506845-e8420580-e122-11ea-82ca-31087fc8486c.png"  width="500px" alt="hi" >
 
 <!--  About me -->
-## **About me**
-I'm Mustapha Charfi a Computer science student at (ISI Kef) in Tunisia 💻 , I'm 21 years old and Content Creator on [YouTube](https://www.youtube.com/@lmuus).
-I am completely passionate about frontend backend development .
+## **About Me**
+
+I'm Mustapha Charfi, a Computer Science graduate from ISI Kef, Tunisia 🎓.  
+I'm 23 years old and currently pursuing an Engineering degree in Software Development at ISI Ariana 💻.
+
+I am passionate about software engineering, full-stack development, and building innovative digital solutions. I enjoy learning new technologies, improving my skills, and working on projects that combine creativity and problem-solving.
+
+I am continuously exploring modern development tools and best practices to grow as a software engineer.
 
 <!-- Let's Connect..! -->
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
