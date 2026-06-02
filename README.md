@@ -59,7 +59,7 @@ I am continuously exploring modern development tools and best practices to grow 
 
 Credit: [Mustapha Charfi](https://github.com/CharfiMustapha) 
 
-Last Edited on: 26/11/2024
+Last Edited on: 02/06/2026
 
 
 [reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
